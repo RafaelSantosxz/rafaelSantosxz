@@ -13,7 +13,7 @@
 
 ## 📌 Projetos em destaque
 
-- **[Projeto Cliente Python](https://github.com/RafaelSantosxz/Projeto-cliente-python))** — 
+- **[Projeto Cliente Python](https://github.com/RafaelSantosxz/Projeto-cliente-python))** — Sistema de gerenciamento de clientes desenvolvido em Python.
 
   
 ## 📊 Estatísticas
