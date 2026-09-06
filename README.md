@@ -13,10 +13,9 @@
 
 ## 📌 Projetos em destaque
 
-- **[Nome do Projeto 1](https://github.com/RafaelSantosxz/repo-1)** — breve descrição do que o projeto faz.
-- **[Nome do Projeto 2](https://github.com/RafaelSantosxz/repo-2)** — breve descrição do que o projeto faz.
-- **[Nome do Projeto 3](https://github.com/RafaelSantosxz/repo-3)** — breve descrição do que o projeto faz.
+- **[Projeto Cliente Python](https://github.com/RafaelSantosxz/Projeto-cliente-python))** — 
 
+  
 ## 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantosxz&show_icons=true&theme=dark)
