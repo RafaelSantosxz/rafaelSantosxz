@@ -1,27 +1,27 @@
-# Olá, eu sou o Rafael! 👋
+# Rafael de Oliveira Santos
 
-🐍 Estudando Python e construindo minha base em programação
-💻 Focado em evoluir através de projetos práticos
-🚀 Aberto a novas oportunidades e colaborações
+Estudante de Python, focado em construir uma base sólida em lógica de programação e desenvolvimento de software através de projetos práticos.
 
-## 🛠️ Tecnologias
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Sobre mim
 
-## 📌 Projetos em destaque
+- 🎓 Em formação contínua em Python
+- 🔍 Buscando minha primeira oportunidade na área de desenvolvimento
+- 🤝 Aberto a projetos colaborativos e freelas
 
-- **[Projeto Cliente Python](https://github.com/RafaelSantosxz/Projeto-cliente-python))** — Sistema de gerenciamento de clientes desenvolvido em Python.
+### Stack
 
-  
-## 📊 Estatísticas
+`Python` · `Git & GitHub` · `VS Code`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantosxz&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelSantosxz&theme=dark)
+### Projetos
 
-## 📫 Contato
+| Projeto | Descrição |
+|---|---|
+| [Nome do Projeto 1](https://github.com/RafaelSantosxz/repo-1) | Breve descrição do problema resolvido e tecnologias usadas |
+| [Nome do Projeto 2](https://github.com/RafaelSantosxz/repo-2) | Breve descrição do problema resolvido e tecnologias usadas |
+| [Nome do Projeto 3](https://github.com/RafaelSantosxz/repo-3) | Breve descrição do problema resolvido e tecnologias usadas |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santos-3a7257371)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaxx22@gmail.com)
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/rafael-santos-3a7257371) · [E-mail](mailto:raphaxx22@gmail.com)
