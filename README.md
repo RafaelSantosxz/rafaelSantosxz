@@ -18,9 +18,8 @@ Estudante de Python, focado em construir uma base sólida em lógica de programa
 
 | Projeto | Descrição |
 |---|---|
-| [Nome do Projeto 1](https://github.com/RafaelSantosxz/repo-1) | Breve descrição do problema resolvido e tecnologias usadas |
-| [Nome do Projeto 2](https://github.com/RafaelSantosxz/repo-2) | Breve descrição do problema resolvido e tecnologias usadas |
-| [Nome do Projeto 3](https://github.com/RafaelSantosxz/repo-3) | Breve descrição do problema resolvido e tecnologias usadas |
+| [CRUD Client](https://github.com/RafaelSantosxz/crud-client) | Sistema de cadastro de clientes em Python (CRUD completo) com persistência em JSON, validação de dados de entrada e relatório por faixa etária |
+
 
 ### Contato
 
